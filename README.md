@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83ae2cef-999a-49db-821d-5251352178c8" /># Hi 👋, I'm Sai Kiran Ksheerasagar
+# Hi 👋, I'm Sai Kiran Ksheerasagar
 
 ### Aspiring Applied AI Engineer | Python | LLMs | AI Applications
 
